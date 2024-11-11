@@ -4,7 +4,10 @@
 With over 4 years of experience in **automation testing** and a deep commitment to quality, I specialize in building robust test automation frameworks to ensure the highest standards in software quality. My expertise spans multiple tools and frameworks, enabling me to deliver scalable, maintainable, and efficient automation solutions.
 
 ---
+### 📊 GitHub Language Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranam2030&layout=pie&langs_count=6&theme=radical)
 
+---
 ### 💼 Expertise & Skills
 
 - **Automation Framework Design**: Developing scalable frameworks for consistent and high-quality test automation.
