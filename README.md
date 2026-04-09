@@ -60,18 +60,28 @@ My focus areas include **UI, API, and mobile automation**, **performance testing
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ranam2030&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranam2030&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
-</div>
-<div align="center">
-Show Image
+
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=ranam2030&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/ranam2030?label=Followers&style=social" />
+
+<br/><br/>
+
+<!-- Stats + Streak -->
+<img src="https://streak-stats.demolab.com?user=ranam2030&theme=github-dark&hide_border=true" height="160" />
+
 </div>
 
----
+## 🔥 Activity Graph (Live)
+
+<div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranam2030&theme=github-dark&hide_border=true" width="95%"/>
+
+</div>
 
 ## Currently Exploring
 
