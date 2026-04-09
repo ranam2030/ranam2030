@@ -63,9 +63,12 @@ My focus areas include **UI, API, and mobile automation**, **performance testing
 ## GitHub Stats
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranam2030&layout=compact&langs_count=6&theme=github_dark&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=ranam2030&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranam2030&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+</div>
+<div align="center">
+Show Image
 </div>
 
 ---
